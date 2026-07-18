@@ -17,25 +17,42 @@ img{
     border-radius: 50%;
     border-style: solid 1px;
     background-color: rgb(231, 239, 246);
+      margin-top: 2px;
     
 }
  #A{ border-color: rgb(239, 246, 244);
     border-style: solid 1px;
     border-radius: 5%;
-    background-color: rgb(223, 230, 230);
+    background-color: rgb(168, 170, 170);
     margin-top: 2px;
     margin-left: 5px;
     padding: 0.05px;
 }
 #C{ margin-left: 8vw;
-
+  margin-top: 2px;
+  
 }
 .sign{
      margin-left: 20vw;
+     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+     font-size: 30px;
+     display: flex;
+     margin-top: 7px;
+     color: rgb(69, 151, 213);
+     cursor: pointer;
 }
 #a21{
-margin-left: 8vw;
+margin-left: 4vw;
 }
 }
+#a10{
+    color: aliceblue;
+    font-size: 30px;
+    padding-left: 3px;
+    cursor: pointer;
+    
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
 
 
