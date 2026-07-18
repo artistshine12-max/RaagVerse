@@ -11,16 +11,20 @@ img{
     
     }
 #B{
-    margin-left: 20vw;
-    border-color:solid aliceblue 8px;
-    border-radius: 30%;
-    border-style: solid;
-    background-color: rgb(231, 239, 246);
-}
- #A{ border-color: rgb(22, 218, 152);
-    border-style: groove;
+    margin-left: 10vw;
+    border-color: aliceblue;
     border-radius: 50%;
-    background-color: rgb(150, 237, 237);
+    border-style: solid 1px;
+    background-color: rgb(231, 239, 246);
+    
+}
+ #A{ border-color: rgb(239, 246, 244);
+    border-style: solid 1px;
+    border-radius: 5%;
+    background-color: rgb(223, 230, 230);
+    margin-top: 2px;
+    margin-left: 5px;
+    padding: 0.05px;
 }
 }
 
