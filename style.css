@@ -5,13 +5,14 @@
 .navbar{
 background-color: rgb(52, 52, 54);
 height: 50px;
+display: flex;
 img{
     height: 42px;
     width: 50px;
     
     }
 #B{
-    margin-left: 10vw;
+    margin-left: 8vw;
     border-color: aliceblue;
     border-radius: 50%;
     border-style: solid 1px;
@@ -25,6 +26,15 @@ img{
     margin-top: 2px;
     margin-left: 5px;
     padding: 0.05px;
+}
+#C{ margin-left: 8vw;
+
+}
+.sign{
+     margin-left: 20vw;
+}
+#a21{
+margin-left: 8vw;
 }
 }
 
